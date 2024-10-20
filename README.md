@@ -1,7 +1,6 @@
 # Round Robin CPU Scheduling Algorithm
 
-Name: Michael Bonilla - 1023062
-CSCI 330
+Name: Michael Bonilla 
 ## Project Scope
 
 The goal of the project is implementation of  the Round Robin algorithm with different time quantum in order to demonstrate how much CPU resources can be used and how process will be executed according to different time quantum.
