@@ -1,11 +1,7 @@
-# Round Robin CPU Cheduling Algorithm
+# Round Robin CPU Scheduling Algorithm
 
-Name: Denisolt Shakhbulatov - 1073562
-
-Class: CSCI 330
-
-Professor: Susan Gass
-
+Name: Michael Bonilla - 1023062
+CSCI 330
 ## Project Scope
 
 The goal of the project is implementation of  the Round Robin algorithm with different time quantum in order to demonstrate how much CPU resources can be used and how process will be executed according to different time quantum.
@@ -26,7 +22,7 @@ The input is a csv file that has a format like below and time quantum. Pic below
 
 ## Execution
 
-Open terminal, run ``` cd RoundRobin ``` and run the command below. Make sure that you add the path to the csv file and the time quantum you would like to use
+Open the terminal, run ``` cd RoundRobin ```, and run the command below. Make sure that you add the path to the CSV file and the time quantum you would like to use
 
 ``` 
 #tq = 5 and process.csv is the path
