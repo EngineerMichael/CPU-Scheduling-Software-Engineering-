@@ -55,3 +55,5 @@ Implementation of other CPU Scheduling Algorithms:
 - First Come First Serve
 - Priority Scheduling 
 - Short Job First
+
+GNU General Public License v3.0 
